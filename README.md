@@ -16,13 +16,13 @@ Generating bills: Creating bills for orders.
 
 Managing payments: Adding and viewing payments.
 
-Language Used: Java
+**Language Used:** Java
 
-Data Structure: Binary Search Tree, Hash Map, Hash Table, Sorting
+**Data Structure:** Binary Search Tree, Hash Map, Hash Table, Sorting
 
-Database: MySQL
+**Database:** MySQL
 
-Tools: JDBC,PostgreSQL, Visual Studio Code
+**Tools:** JDBC,PostgreSQL, Visual Studio Code
 
 The project aims to provide a comprehensive solution for managing a retail shop's day-to-day operations, 
 improving efficiency, and reducing manual errors.
